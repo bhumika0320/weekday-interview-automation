@@ -28,30 +28,9 @@ JavaScript (Airtable scripting environment)
 
 🗂 Airtable Base Structure
 Table: Candidates_Raw
+<img width="745" height="140" alt="image" src="https://github.com/user-attachments/assets/2bdd4e03-4d2b-4481-a4e0-d8815e8495ab" />
 
-Imported directly from the provided CSV.
-
-Field	                              Description
-Candidate Name	                    Candidate full name
-Email	                              Candidate email
-Role	                              Applied role
-Interview Rounds	                  Comma-separated interview rounds
-Added On	                          Record creation timestamp
 
 Table: Candidates_Split
 Normalized table (1 row = 1 interview round).
-
-Field                              	Description
-Candidate Name	                    Candidate full name
-Email	                              Candidate email
-Role	                              Applied role
-Interview Round	                    Single interview round
-Calendly Link                       Scheduling link                  
-Added On	                          Original added time
-Mail Sent Time	                    Email sent timestamp
-Retry Count	                        Email retry attempts
-Email Status	                      Success / Failed
-TAT (Hours)	                        Turnaround time
-
-
 <img width="746" height="252" alt="image" src="https://github.com/user-attachments/assets/ba347f16-4bbc-4ed6-b546-a1c5e4366ee3" />
