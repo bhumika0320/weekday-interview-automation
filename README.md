@@ -52,3 +52,6 @@ Mail Sent Time	                    Email sent timestamp
 Retry Count	                        Email retry attempts
 Email Status	                      Success / Failed
 TAT (Hours)	                        Turnaround time
+
+
+<img width="746" height="252" alt="image" src="https://github.com/user-attachments/assets/ba347f16-4bbc-4ed6-b546-a1c5e4366ee3" />
